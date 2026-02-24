@@ -1,6 +1,6 @@
 # Brandon Watson
 
-🔐 Systems Engineer | Active TS (SCI Eligible)  
+🔐 Systems Engineer  
 💻 Linux | VMware | NSX | Ansible | HPC | Security+ | Linux+
 
 ## 🧠 Core Skills

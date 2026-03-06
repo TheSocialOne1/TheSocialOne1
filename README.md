@@ -20,7 +20,7 @@
 
 ## 📜 Certifications
 - CompTIA Security+ (Expires March 2029)
-- CompTIA Linux+
+- CompTIA Linux+ (Lifetime)
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/brandon-watson-477b8a2b/
